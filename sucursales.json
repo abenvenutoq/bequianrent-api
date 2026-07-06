@@ -1,0 +1,82 @@
+[
+  {
+    "nombre": "Santiago Centro",
+    "direccion": "Av. Libertador Bernardo O'Higgins 1234",
+    "ciudad": "Santiago",
+    "telefono": "+56 2 2345 6789",
+    "jefeSucursal": "Carlos Mendoza",
+    "horario": "09:00 - 19:00"
+  },
+  {
+    "nombre": "Santiago Oriente",
+    "direccion": "Av. Apoquindo 4500",
+    "ciudad": "Santiago",
+    "telefono": "+56 2 2456 7890",
+    "jefeSucursal": "Andrea Valdés",
+    "horario": "09:00 - 19:00"
+  },
+  {
+    "nombre": "Santiago Aeropuerto",
+    "direccion": "Aeropuerto Arturo Merino Benítez, Local 4",
+    "ciudad": "Santiago",
+    "telefono": "+56 2 2567 8901",
+    "jefeSucursal": "Luis Torres",
+    "horario": "Abierto 24 horas"
+  },
+  {
+    "nombre": "Viña del Mar 1",
+    "direccion": "Av. Libertad 500",
+    "ciudad": "Viña del Mar",
+    "telefono": "+56 32 234 5678",
+    "jefeSucursal": "Camila Rojas",
+    "horario": "09:00 - 18:30"
+  },
+  {
+    "nombre": "Valparaíso 1",
+    "direccion": "Av. Errázuriz 1020",
+    "ciudad": "Valparaíso",
+    "telefono": "+56 32 212 3456",
+    "jefeSucursal": "Fernando Pino",
+    "horario": "09:00 - 18:00"
+  },
+  {
+    "nombre": "Concepción 1",
+    "direccion": "O'Higgins 780",
+    "ciudad": "Concepción",
+    "telefono": "+56 41 245 6789",
+    "jefeSucursal": "Daniela Soto",
+    "horario": "08:30 - 18:30"
+  },
+  {
+    "nombre": "Antofagasta 1",
+    "direccion": "Av. Balmaceda 2500",
+    "ciudad": "Antofagasta",
+    "telefono": "+56 55 256 7890",
+    "jefeSucursal": "Roberto Iglesias",
+    "horario": "09:00 - 18:00"
+  },
+  {
+    "nombre": "La Serena 1",
+    "direccion": "Av. Francisco de Aguirre 300",
+    "ciudad": "La Serena",
+    "telefono": "+56 51 267 8901",
+    "jefeSucursal": "Valentina Morales",
+    "horario": "09:00 - 19:00"
+  },
+  {
+    "nombre": "Temuco 1",
+    "direccion": "Av. Caupolicán 1000",
+    "ciudad": "Temuco",
+    "telefono": "+56 45 289 0123",
+    "jefeSucursal": "Javier Silva",
+    "horario": "09:00 - 18:00"
+  },
+  {
+    "nombre": "Puerto Montt 1",
+    "direccion": "Antonio Varas 450",
+    "ciudad": "Puerto Montt",
+    "telefono": "+56 65 278 9012",
+    "jefeSucursal": "Marcela Tapia",
+    "horario": "08:30 - 18:30"
+  }
+]

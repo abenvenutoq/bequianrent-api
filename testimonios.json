@@ -1,0 +1,142 @@
+[
+  {
+    "evaluacion": 5,
+    "nombre": "Javiera Sanhueza",
+    "autoRentado": "Peugeot 208",
+    "fechaEvaluacion": "15-05-2026",
+    "comentario": "Excelente servicio, el auto estaba impecable y la entrega fue muy rápida."
+  },
+  {
+    "evaluacion": 4,
+    "nombre": "Matías González",
+    "autoRentado": "Kia Morning",
+    "fechaEvaluacion": "02-06-2026",
+    "comentario": "Muy buen auto para moverse por la ciudad. Consumo de bencina súper económico."
+  },
+  {
+    "evaluacion": 5,
+    "nombre": "Carolina Herrera",
+    "autoRentado": "Toyota Yaris",
+    "fechaEvaluacion": "28-06-2026",
+    "comentario": "El maletero es súper amplio, ideal para el viaje que hicimos en familia al sur."
+  },
+  {
+    "evaluacion": 3,
+    "nombre": "Pedro Castillo",
+    "autoRentado": "Chevrolet Sail",
+    "fechaEvaluacion": "10-04-2026",
+    "comentario": "El auto cumplió, pero me habría gustado que la sucursal abriera un poco más temprano."
+  },
+  {
+    "evaluacion": 5,
+    "nombre": "Sofía Arancibia",
+    "autoRentado": "Nissan Versa",
+    "fechaEvaluacion": "22-03-2026",
+    "comentario": "La atención de Carlos en Santiago Centro fue de primera. 100% recomendados."
+  },
+  {
+    "evaluacion": 4,
+    "nombre": "Felipe Sepúlveda",
+    "autoRentado": "Hyundai Accent",
+    "fechaEvaluacion": "05-07-2026",
+    "comentario": "El proceso de reserva web es súper intuitivo. Retiré el auto en 10 minutos."
+  },
+  {
+    "evaluacion": 5,
+    "nombre": "Antonia Ríos",
+    "autoRentado": "Peugeot 208",
+    "fechaEvaluacion": "18-02-2026",
+    "comentario": "¡Me encantó! El modelo es precioso y estaba como nuevo."
+  },
+  {
+    "evaluacion": 5,
+    "nombre": "Diego Aliste",
+    "autoRentado": "Toyota Yaris",
+    "fechaEvaluacion": "30-01-2026",
+    "comentario": "Arrendé en el aeropuerto y fue la mejor decisión para empezar mis vacaciones."
+  },
+  {
+    "evaluacion": 4,
+    "nombre": "Camila Fuentes",
+    "autoRentado": "Kia Morning",
+    "fechaEvaluacion": "14-06-2026",
+    "comentario": "Fácil de estacionar en Viña del Mar, que siempre es un problema. Buena experiencia."
+  },
+  {
+    "evaluacion": 2,
+    "nombre": "Ricardo Vega",
+    "autoRentado": "Chevrolet Sail",
+    "fechaEvaluacion": "09-05-2026",
+    "comentario": "Tuve un problema con el aire acondicionado, pero me cambiaron el auto al día siguiente."
+  },
+  {
+    "evaluacion": 5,
+    "nombre": "Francisca Muñoz",
+    "autoRentado": "Nissan Versa",
+    "fechaEvaluacion": "25-04-2026",
+    "comentario": "Espacioso y súper cómodo. La relación calidad-precio es insuperable."
+  },
+  {
+    "evaluacion": 5,
+    "nombre": "Tomás Pizarro",
+    "autoRentado": "Hyundai Accent",
+    "fechaEvaluacion": "03-03-2026",
+    "comentario": "Cero problemas. Entregué el auto fuera de horario en el aeropuerto y todo fluyó perfecto."
+  },
+  {
+    "evaluacion": 4,
+    "nombre": "Natalia Contreras",
+    "autoRentado": "Peugeot 208",
+    "fechaEvaluacion": "12-07-2026",
+    "comentario": "El diseño interior es muy moderno y tecnológico. Lo arrendaría otra vez."
+  },
+  {
+    "evaluacion": 5,
+    "nombre": "Sebastián Reyes",
+    "autoRentado": "Toyota Yaris",
+    "fechaEvaluacion": "20-05-2026",
+    "comentario": "Fiabilidad total. Fuimos a la cordillera y el auto respondió increíble."
+  },
+  {
+    "evaluacion": 4,
+    "nombre": "Isidora Méndez",
+    "autoRentado": "Kia Morning",
+    "fechaEvaluacion": "08-02-2026",
+    "comentario": "Perfecto para dos personas. Lo único es que no caben maletas muy grandes, pero el servicio fue genial."
+  },
+  {
+    "evaluacion": 5,
+    "nombre": "Joaquín Orellana",
+    "autoRentado": "Nissan Versa",
+    "fechaEvaluacion": "17-06-2026",
+    "comentario": "Muy buen trato por parte del equipo en Antofagasta. Resolvieron todas mis dudas."
+  },
+  {
+    "evaluacion": 3,
+    "nombre": "Macarena López",
+    "autoRentado": "Hyundai Accent",
+    "fechaEvaluacion": "29-04-2026",
+    "comentario": "El auto bien, pero había un poco de fila para retirarlo en la sucursal."
+  },
+  {
+    "evaluacion": 5,
+    "nombre": "Andrés Cárdenas",
+    "autoRentado": "Chevrolet Sail",
+    "fechaEvaluacion": "11-01-2026",
+    "comentario": "Cumple perfecto su función. Auto limpio, estanque lleno y sin cobros sorpresa."
+  },
+  {
+    "evaluacion": 5,
+    "nombre": "Catalina Salazar",
+    "autoRentado": "Peugeot 208",
+    "fechaEvaluacion": "04-07-2026",
+    "comentario": "Mi experiencia favorita rentando autos en Chile. Volveré a usar BequianRent."
+  },
+  {
+    "evaluacion": 4,
+    "nombre": "Ignacio Bustos",
+    "autoRentado": "Toyota Yaris",
+    "fechaEvaluacion": "21-03-2026",
+    "comentario": "Todo correcto. Lo devolví en una sucursal distinta a la de retiro y el trámite fue rápido."
+  }
+]
