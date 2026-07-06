@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "nombre": "Santiago Centro",
     "direccion": "Av. Libertador Bernardo O'Higgins 1234",
     "ciudad": "Santiago",
@@ -8,6 +9,7 @@
     "horario": "09:00 - 19:00"
   },
   {
+    "id": 2,
     "nombre": "Santiago Oriente",
     "direccion": "Av. Apoquindo 4500",
     "ciudad": "Santiago",
@@ -16,6 +18,7 @@
     "horario": "09:00 - 19:00"
   },
   {
+    "id": 3,
     "nombre": "Santiago Aeropuerto",
     "direccion": "Aeropuerto Arturo Merino Benítez, Local 4",
     "ciudad": "Santiago",
@@ -24,6 +27,7 @@
     "horario": "Abierto 24 horas"
   },
   {
+    "id": 4,
     "nombre": "Viña del Mar 1",
     "direccion": "Av. Libertad 500",
     "ciudad": "Viña del Mar",
@@ -32,6 +36,7 @@
     "horario": "09:00 - 18:30"
   },
   {
+    "id": 5,
     "nombre": "Valparaíso 1",
     "direccion": "Av. Errázuriz 1020",
     "ciudad": "Valparaíso",
@@ -40,6 +45,7 @@
     "horario": "09:00 - 18:00"
   },
   {
+    "id": 6,
     "nombre": "Concepción 1",
     "direccion": "O'Higgins 780",
     "ciudad": "Concepción",
@@ -48,6 +54,7 @@
     "horario": "08:30 - 18:30"
   },
   {
+    "id": 7,
     "nombre": "Antofagasta 1",
     "direccion": "Av. Balmaceda 2500",
     "ciudad": "Antofagasta",
@@ -56,6 +63,7 @@
     "horario": "09:00 - 18:00"
   },
   {
+    "id": 8,
     "nombre": "La Serena 1",
     "direccion": "Av. Francisco de Aguirre 300",
     "ciudad": "La Serena",
@@ -64,6 +72,7 @@
     "horario": "09:00 - 19:00"
   },
   {
+    "id": 9,
     "nombre": "Temuco 1",
     "direccion": "Av. Caupolicán 1000",
     "ciudad": "Temuco",
@@ -72,6 +81,7 @@
     "horario": "09:00 - 18:00"
   },
   {
+    "id": 10,
     "nombre": "Puerto Montt 1",
     "direccion": "Antonio Varas 450",
     "ciudad": "Puerto Montt",

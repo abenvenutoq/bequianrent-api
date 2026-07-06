@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "evaluacion": 5,
     "nombre": "Javiera Sanhueza",
     "autoRentado": "Peugeot 208",
@@ -7,6 +8,7 @@
     "comentario": "Excelente servicio, el auto estaba impecable y la entrega fue muy rápida."
   },
   {
+    "id": 2,
     "evaluacion": 4,
     "nombre": "Matías González",
     "autoRentado": "Kia Morning",
@@ -14,6 +16,7 @@
     "comentario": "Muy buen auto para moverse por la ciudad. Consumo de bencina súper económico."
   },
   {
+    "id": 3,
     "evaluacion": 5,
     "nombre": "Carolina Herrera",
     "autoRentado": "Toyota Yaris",
@@ -21,6 +24,7 @@
     "comentario": "El maletero es súper amplio, ideal para el viaje que hicimos en familia al sur."
   },
   {
+    "id": 4,
     "evaluacion": 3,
     "nombre": "Pedro Castillo",
     "autoRentado": "Chevrolet Sail",
@@ -28,6 +32,7 @@
     "comentario": "El auto cumplió, pero me habría gustado que la sucursal abriera un poco más temprano."
   },
   {
+    "id": 5,
     "evaluacion": 5,
     "nombre": "Sofía Arancibia",
     "autoRentado": "Nissan Versa",
@@ -35,6 +40,7 @@
     "comentario": "La atención de Carlos en Santiago Centro fue de primera. 100% recomendados."
   },
   {
+    "id": 6,
     "evaluacion": 4,
     "nombre": "Felipe Sepúlveda",
     "autoRentado": "Hyundai Accent",
@@ -42,6 +48,7 @@
     "comentario": "El proceso de reserva web es súper intuitivo. Retiré el auto en 10 minutos."
   },
   {
+    "id": 7,
     "evaluacion": 5,
     "nombre": "Antonia Ríos",
     "autoRentado": "Peugeot 208",
@@ -49,6 +56,7 @@
     "comentario": "¡Me encantó! El modelo es precioso y estaba como nuevo."
   },
   {
+    "id": 8,
     "evaluacion": 5,
     "nombre": "Diego Aliste",
     "autoRentado": "Toyota Yaris",
@@ -56,6 +64,7 @@
     "comentario": "Arrendé en el aeropuerto y fue la mejor decisión para empezar mis vacaciones."
   },
   {
+    "id": 9,
     "evaluacion": 4,
     "nombre": "Camila Fuentes",
     "autoRentado": "Kia Morning",
@@ -63,6 +72,7 @@
     "comentario": "Fácil de estacionar en Viña del Mar, que siempre es un problema. Buena experiencia."
   },
   {
+    "id": 10,
     "evaluacion": 2,
     "nombre": "Ricardo Vega",
     "autoRentado": "Chevrolet Sail",
@@ -70,6 +80,7 @@
     "comentario": "Tuve un problema con el aire acondicionado, pero me cambiaron el auto al día siguiente."
   },
   {
+    "id": 11,
     "evaluacion": 5,
     "nombre": "Francisca Muñoz",
     "autoRentado": "Nissan Versa",
@@ -77,6 +88,7 @@
     "comentario": "Espacioso y súper cómodo. La relación calidad-precio es insuperable."
   },
   {
+    "id": 12,
     "evaluacion": 5,
     "nombre": "Tomás Pizarro",
     "autoRentado": "Hyundai Accent",
@@ -84,6 +96,7 @@
     "comentario": "Cero problemas. Entregué el auto fuera de horario en el aeropuerto y todo fluyó perfecto."
   },
   {
+    "id": 13,
     "evaluacion": 4,
     "nombre": "Natalia Contreras",
     "autoRentado": "Peugeot 208",
@@ -91,6 +104,7 @@
     "comentario": "El diseño interior es muy moderno y tecnológico. Lo arrendaría otra vez."
   },
   {
+    "id": 14,
     "evaluacion": 5,
     "nombre": "Sebastián Reyes",
     "autoRentado": "Toyota Yaris",
@@ -98,6 +112,7 @@
     "comentario": "Fiabilidad total. Fuimos a la cordillera y el auto respondió increíble."
   },
   {
+    "id": 15,
     "evaluacion": 4,
     "nombre": "Isidora Méndez",
     "autoRentado": "Kia Morning",
@@ -105,6 +120,7 @@
     "comentario": "Perfecto para dos personas. Lo único es que no caben maletas muy grandes, pero el servicio fue genial."
   },
   {
+    "id": 16,
     "evaluacion": 5,
     "nombre": "Joaquín Orellana",
     "autoRentado": "Nissan Versa",
@@ -112,6 +128,7 @@
     "comentario": "Muy buen trato por parte del equipo en Antofagasta. Resolvieron todas mis dudas."
   },
   {
+    "id": 17,
     "evaluacion": 3,
     "nombre": "Macarena López",
     "autoRentado": "Hyundai Accent",
@@ -119,6 +136,7 @@
     "comentario": "El auto bien, pero había un poco de fila para retirarlo en la sucursal."
   },
   {
+    "id": 18,
     "evaluacion": 5,
     "nombre": "Andrés Cárdenas",
     "autoRentado": "Chevrolet Sail",
@@ -126,6 +144,7 @@
     "comentario": "Cumple perfecto su función. Auto limpio, estanque lleno y sin cobros sorpresa."
   },
   {
+    "id": 19,
     "evaluacion": 5,
     "nombre": "Catalina Salazar",
     "autoRentado": "Peugeot 208",
@@ -133,6 +152,7 @@
     "comentario": "Mi experiencia favorita rentando autos en Chile. Volveré a usar BequianRent."
   },
   {
+    "id": 20,
     "evaluacion": 4,
     "nombre": "Ignacio Bustos",
     "autoRentado": "Toyota Yaris",
