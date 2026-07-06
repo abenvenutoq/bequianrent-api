@@ -79,14 +79,5 @@
     "telefono": "+56 45 289 0123",
     "jefeSucursal": "Javier Silva",
     "horario": "09:00 - 18:00"
-  },
-  {
-    "id": 10,
-    "nombre": "Puerto Montt 1",
-    "direccion": "Antonio Varas 450",
-    "ciudad": "Puerto Montt",
-    "telefono": "+56 65 278 9012",
-    "jefeSucursal": "Marcela Tapia",
-    "horario": "08:30 - 18:30"
   }
 ]
