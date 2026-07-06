@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "nombre": "Viña del Mar 1",
+    "nombre": "Viña - Libertad",
     "direccion": "Av. Libertad 500",
     "ciudad": "Viña del Mar",
     "telefono": "+56 32 234 5678",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "nombre": "Valparaíso 1",
+    "nombre": "Valpo - Errazuriz",
     "direccion": "Av. Errázuriz 1020",
     "ciudad": "Valparaíso",
     "telefono": "+56 32 212 3456",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "nombre": "Concepción 1",
+    "nombre": "Conce - Ohiggins",
     "direccion": "O'Higgins 780",
     "ciudad": "Concepción",
     "telefono": "+56 41 245 6789",
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "nombre": "Antofagasta 1",
+    "nombre": "Antofa - Balmaceda",
     "direccion": "Av. Balmaceda 2500",
     "ciudad": "Antofagasta",
     "telefono": "+56 55 256 7890",
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "nombre": "La Serena 1",
+    "nombre": "Serena - Faguirre",
     "direccion": "Av. Francisco de Aguirre 300",
     "ciudad": "La Serena",
     "telefono": "+56 51 267 8901",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "nombre": "Temuco 1",
+    "nombre": "Temu - Caupolicán",
     "direccion": "Av. Caupolicán 1000",
     "ciudad": "Temuco",
     "telefono": "+56 45 289 0123",
